@@ -7,7 +7,7 @@ import io.restassured.http.ContentType;
 
 import static io.restassured.RestAssured.*;
 
-public class Test_Post {
+public class Test_Post1 {
 
 	@Test
 	void test_01_post()
