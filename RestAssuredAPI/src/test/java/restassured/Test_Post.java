@@ -7,10 +7,10 @@ import io.restassured.http.ContentType;
 
 import static io.restassured.RestAssured.*;
 
-public class Test_Post1 {
+public class Test_Post {
 
 	@Test
-	void test_01_post()
+	void test_01_post1()
 	
 	{
 		JSONObject request = new JSONObject();
